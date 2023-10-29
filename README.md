@@ -1,4 +1,4 @@
-# brixel-colorful-admin
+# Brixel Colorful Admin
 Changes the admin backend background color based on the siteurl, just for admin.
 
 ## Motivation
