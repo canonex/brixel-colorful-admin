@@ -1,6 +1,7 @@
 <?php
 /**
  * Plugin Name:	Brixel Colorful Admin
+ * Plugin URI:	https://github.com/canonex/brixel-colorful-admin
  * Description:	Changes the admin backend background color based on the siteurl, just for admin. A test using AI.
  * Version:		1.0
  * Author: 		Brixel
